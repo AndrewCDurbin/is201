@@ -1,0 +1,59 @@
+/*--Andrew Durbin / IS 201 (003) / Edited 23:00 31 August 2022*/
+
+.common {
+    position: relative;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 525px;
+    border-bottom: solid 1px #555555;
+}
+
+.footer{
+    height: 70px;
+    right: 5px;
+    left: 5px;
+    bottom: 5px;
+    font-size: 12px;
+    text-align: center;
+    position: fixed;
+    z-index: 9;
+    color: white;
+    background-color: rgb(44, 44, 44);
+}
+
+.tableau{
+    top: 10px;
+}
+
+
+.spacerbox{
+    bottom: 100px;
+    height: 100px;
+}
+
+.title{
+    padding-top: 200px;
+    font-size: 48px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.blockTitle{
+    font-size: 24px;
+}
+
+.caption{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+
+.navigation{
+    font-size: 28px;
+    text-align: center;
+}
+
